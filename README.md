@@ -27,4 +27,3 @@ docker run --rm -p 8080:5000 ds-ml-service
 http://localhost:8080
 
 
-หากต้องการหยุดการทำงานของ Container ให้กด `Ctrl + C` ใน Terminal
